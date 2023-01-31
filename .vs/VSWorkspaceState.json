@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\Context",
+    "\\Model",
+    "\\StaffWeb",
+    "\\StaffWeb\\Controllers",
+    "\\StaffWeb\\Views",
+    "\\StaffWeb\\Views\\login",
+    "\\StaffWeb\\wwwroot"
+  ],
+  "SelectedNode": "\\DemoProject_EDA.sln",
+  "PreviewInSolutionExplorer": false
+}

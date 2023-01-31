@@ -1,0 +1,544 @@
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ref\StaffWeb.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.xml
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.StaticWebAssets.xml
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\refint\StaffWeb.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\libman.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ResetPassword.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ForgotPassword.cshtml.g.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\UpdatePassword.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\libman.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.StaticWebAssets.xml
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ForgotPassword.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ResetPassword.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\UpdatePassword.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\refint\StaffWeb.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\libman.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.StaticWebAssets.xml
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ForgotPassword.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ResetPassword.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\UpdatePassword.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\refint\StaffWeb.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\libman.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.StaticWebAssets.xml
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\bin\Debug\net5.0\Model.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ForgotPassword.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ResetPassword.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\UpdatePassword.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\refint\StaffWeb.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\PartialView.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\appsettings.Development.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\appsettings.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\libman.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.StaticWebAssets.xml
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.exe
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.deps.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.runtimeconfig.dev.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\StaffWeb.Views.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Humanizer.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\MySql.Data.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\ZstdNet.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\BLL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Model.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\BLL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\DAL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\bin\Debug\net5.0\Model.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.AssemblyReference.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfoInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.AssemblyInfo.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CoreCompileInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorAssemblyInfo.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\scopedcss\bundle\StaffWeb.styles.css
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\staticwebassets\StaffWeb.StaticWebAssets.Manifest.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.input.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.TagHelpers.output.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorCoreGenerate.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ForgotPassword.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\PartialView.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\ResetPassword.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\ForgotPassword\UpdatePassword.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\login\login.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.RazorTargetAssemblyInfo.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.Views.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.csproj.CopyComplete
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\refint\StaffWeb.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\StaffWeb.genruntimeconfig.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\StaffWeb\obj\Debug\net5.0\ref\StaffWeb.dll

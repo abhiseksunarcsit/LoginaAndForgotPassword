@@ -1,0 +1,90 @@
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\refint\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\bin\Debug\net5.0\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\refint\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\DAL\obj\Debug\net5.0\ref\DAL.dll

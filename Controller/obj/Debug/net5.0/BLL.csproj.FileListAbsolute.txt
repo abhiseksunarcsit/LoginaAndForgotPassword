@@ -1,0 +1,102 @@
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\Dell\source\repos\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.deps.json
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\ref\BLL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.deps.json
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\refint\BLL.dll
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.pdb
+D:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\ref\BLL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.deps.json
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\bin\Debug\net5.0\Model.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\refint\BLL.dll
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.pdb
+E:\DemoProject_EDA (1)\DemoProject_EDA\Controller\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.deps.json
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\1HOME_DemoProject_EDA\Controller\obj\Debug\net5.0\ref\BLL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\BLL.deps.json
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\BLL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\BLL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\DAL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\Model.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\DAL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\bin\Debug\net5.0\Model.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.csproj.CopyComplete
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\refint\BLL.dll
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\BLL.pdb
+E:\Final Project on Login and Forgot Pwt with Gmail Link\Controller\obj\Debug\net5.0\ref\BLL.dll

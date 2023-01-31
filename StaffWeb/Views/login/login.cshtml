@@ -1,0 +1,63 @@
+﻿@model Model.login
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Login";
+   
+}
+ 
+   @TempData["message"]
+
+<div class="container" runat="server">
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+			
+            <form class="form-horizontal" runat="server"asp-action="Login">
+                <div class="form-group">
+					
+		
+                    <label class="control-label" runat="server">Email</label>
+                    <input asp-for="Username" class="form-control" type="text" required />
+                </div>
+                <div class="form-group">
+                    <label class="control-label" runat="server">Password</label>
+                    <input asp-for="Password" class="form-control" type="password" required />
+                </div>
+                <div class="form-group">
+                    <input type="submit" runat="server" value="Submit" />
+                </div>
+                <div class="for-group">
+                    <input type="reset"  runat="server" value=" Clear"/>
+                </div>
+				<br />
+				
+				
+            </form>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+
+<div class="form-group" style="align-items:center">
+       
+	<center><a href="@Url.Action("Index","ForgotPassword")"><p>Forgot Password</p></a></center>
+
+    </div>
+
+
+
+	<h2 >@DateTime.Now.ToShortDateString()</h2>
+	<h2>@TempData["datetime"]</h2>
+
+@{
+	if(TempData["msg"] !=null){
+	<script>
+						alert(@TempData=["Wrong"]="Your information is wrong";
+						
+	</Script>
+	}
+}
+
